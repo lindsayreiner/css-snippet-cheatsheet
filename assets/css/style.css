@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex: row wrap;
+}
+
+.section {
+    position:absolute;
+    flex-box: row;
+
+}
+
+.card {
+    position: relative;
+    bottom: 2px;
+}
